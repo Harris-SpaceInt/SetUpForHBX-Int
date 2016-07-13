@@ -2,6 +2,8 @@
 
 These are the config files for the node-project-server nginx setup. 
 
+This setup assumes node-project-server is running on port 8080 on the same machine.
+
 
 Build instructions for Linux:
 
