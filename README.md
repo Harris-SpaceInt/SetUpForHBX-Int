@@ -1,12 +1,14 @@
 # nginx-project-server
+
 These are the config files for the node-project-server nginx setup. 
+
 
 Build instructions for Linux:
 
-install nginx
+  1. install nginx
 
-copy nginx.conf and sites-available to /etc/nginx
+  2. copy nginx.conf and sites-available to /etc/nginx
 
-copy sites-available/default to /etc/nginx/sites-enabled
+  3. copy sites-available/default to /etc/nginx/sites-enabled
 
-start nginx
+  4. start nginx
