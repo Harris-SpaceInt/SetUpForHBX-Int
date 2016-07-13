@@ -7,10 +7,12 @@ This setup assumes node-project-server is running on port 8080 on the same machi
 
 Build instructions for Linux:
 
-  1. install nginx
+    1. install nginx with package manager
 
-  2. copy nginx.conf and sites-available to /etc/nginx
+    2. copy nginx.conf and sites-available to /etc/nginx
 
-  3. copy sites-available/default to /etc/nginx/sites-enabled
+    3. copy sites-available/default to /etc/nginx/sites-enabled
 
-  4. start nginx
+    4. start nginx with $sudo nginx
+    
+    5. test the server by going to localhost in the browser
